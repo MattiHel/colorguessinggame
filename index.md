@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Color Game</title>
-	<link rel="stylesheet" type="text/css" href="colorgame.css">
-</head>
+
 <body>
 	<h1>The Great 
 		<br>
@@ -31,4 +25,3 @@
 
 	<script type="text/javascript" src="colorgame.js"></script>
 </body>
-</html>
